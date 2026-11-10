@@ -13,7 +13,7 @@ from html import escape
 from pathlib import Path
 
 ROOT = Path(__file__).resolve().parent
-BASE_URL = "https://tengs-fan.github.io/podcast-feed/"
+BASE_URL = "https://tengs-fan.github.io/Podcast-Feed/"
 SHOW = {"title": "Audio Overviews",
         "description": "Two-host audio overviews written by Claude and voiced by Gemini, made for personal listening.",
         "author": "AI generated", "language": "en"}

@@ -2,20 +2,20 @@
 <rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Audio Overviews</title>
-    <link>https://tengs-fan.github.io/podcast-feed/</link>
-    <atom:link href="https://tengs-fan.github.io/podcast-feed/feed.xml" rel="self" type="application/rss+xml"/>
+    <link>https://tengs-fan.github.io/Podcast-Feed/</link>
+    <atom:link href="https://tengs-fan.github.io/Podcast-Feed/feed.xml" rel="self" type="application/rss+xml"/>
     <description>Two-host audio overviews written by Claude and voiced by Gemini, made for personal listening.</description>
     <language>en</language>
     <itunes:author>AI generated</itunes:author>
-    <itunes:image href="https://tengs-fan.github.io/podcast-feed/cover.jpg"/>
+    <itunes:image href="https://tengs-fan.github.io/Podcast-Feed/cover.jpg"/>
     <itunes:explicit>false</itunes:explicit>
     <itunes:block>yes</itunes:block>
     <itunes:category text="Education"/>
-    <lastBuildDate>Tue, 10 Nov 2026 07:11:08 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 10 Nov 2026 16:00:35 +0000</lastBuildDate>
     <item>
       <title>What attention actually computes</title>
       <description>How a transformer works out what the word &#x27;it&#x27; refers to: queries, keys and values, the dot product, and why attention is a soft search that can be trained.</description>
-      <enclosure url="https://tengs-fan.github.io/podcast-feed/episodes/2026-11-10-what-attention-actually-computes.mp3" length="3417240" type="audio/mpeg"/>
+      <enclosure url="https://tengs-fan.github.io/Podcast-Feed/episodes/2026-11-10-what-attention-actually-computes.mp3" length="3417240" type="audio/mpeg"/>
       <guid isPermaLink="false">2026-11-10-what-attention-actually-computes.mp3-3417240</guid>
       <pubDate>Tue, 10 Nov 2026 07:11:08 +0000</pubDate>
       <itunes:duration>0:04:44</itunes:duration>
