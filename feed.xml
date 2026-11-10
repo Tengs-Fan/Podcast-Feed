@@ -11,7 +11,16 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:block>yes</itunes:block>
     <itunes:category text="Education"/>
-    <lastBuildDate>Tue, 10 Nov 2026 16:00:35 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 10 Nov 2026 23:31:24 +0000</lastBuildDate>
+    <item>
+      <title>How LLMs watch video: beyond sampling frames</title>
+      <description>Why the default is one frame per second, and the ideas that go beyond frame sampling: tokens that span time, pruning what did not move, reading the video codec, timestamps, audio, streaming and agentic viewing.</description>
+      <enclosure url="https://tengs-fan.github.io/Podcast-Feed/episodes/2026-11-10-how-llms-watch-video-beyond-sampling-frames.mp3" length="10095090" type="audio/mpeg"/>
+      <guid isPermaLink="false">2026-11-10-how-llms-watch-video-beyond-sampling-frames.mp3-10095090</guid>
+      <pubDate>Tue, 10 Nov 2026 23:31:24 +0000</pubDate>
+      <itunes:duration>0:10:30</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>What attention actually computes</title>
       <description>How a transformer works out what the word &#x27;it&#x27; refers to: queries, keys and values, the dot product, and why attention is a soft search that can be trained.</description>
