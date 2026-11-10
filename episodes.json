@@ -1,0 +1,11 @@
+[
+  {
+    "title": "What attention actually computes",
+    "description": "How a transformer works out what the word 'it' refers to: queries, keys and values, the dot product, and why attention is a soft search that can be trained.",
+    "file": "2026-11-10-what-attention-actually-computes.mp3",
+    "bytes": 3417240,
+    "seconds": 284,
+    "published": "2026-11-10T07:11:08+00:00",
+    "guid": "2026-11-10-what-attention-actually-computes.mp3-3417240"
+  }
+]
