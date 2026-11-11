@@ -11,7 +11,16 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:block>yes</itunes:block>
     <itunes:category text="Education"/>
-    <lastBuildDate>Wed, 11 Nov 2026 07:22:39 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 11 Nov 2026 08:18:13 +0000</lastBuildDate>
+    <item>
+      <title>Expert weights as a compass: the P²-MOPD distillation paper</title>
+      <description>How learnable mixing coefficients on frozen expert task vectors make multi-teacher on-policy distillation faster and far more balanced, plus where the evidence is thin.</description>
+      <enclosure url="https://tengs-fan.github.io/Podcast-Feed/episodes/2026-11-11-expert-weights-as-a-compass-the-p-mopd-distillation-paper.mp3" length="8122101" type="audio/mpeg"/>
+      <guid isPermaLink="false">2026-11-11-expert-weights-as-a-compass-the-p-mopd-distillation-paper.mp3-8122101</guid>
+      <pubDate>Wed, 11 Nov 2026 08:18:13 +0000</pubDate>
+      <itunes:duration>0:11:16</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>e-means: k-means in a tenth of the epochs</title>
       <description>A deep dive into Meta FAIR&#x27;s e-means paper: how mini-batch updates with exponential moving averages match 25 epochs of Lloyd&#x27;s k-means in about two, what the evidence shows, and where the caveats are.</description>

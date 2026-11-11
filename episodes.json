@@ -43,5 +43,14 @@
     "seconds": 595,
     "published": "2026-11-11T07:22:39+00:00",
     "guid": "2026-11-11-e-means-k-means-in-a-tenth-of-the-epochs.mp3-7147513"
+  },
+  {
+    "title": "Expert weights as a compass: the P²-MOPD distillation paper",
+    "description": "How learnable mixing coefficients on frozen expert task vectors make multi-teacher on-policy distillation faster and far more balanced, plus where the evidence is thin.",
+    "file": "2026-11-11-expert-weights-as-a-compass-the-p-mopd-distillation-paper.mp3",
+    "bytes": 8122101,
+    "seconds": 676,
+    "published": "2026-11-11T08:18:13+00:00",
+    "guid": "2026-11-11-expert-weights-as-a-compass-the-p-mopd-distillation-paper.mp3-8122101"
   }
 ]
