@@ -34,5 +34,14 @@
     "seconds": 529,
     "published": "2026-11-11T07:20:08+00:00",
     "guid": "2026-11-11-training-without-backprop-from-1-76-hours-to-1-6-seconds.mp3-6359467"
+  },
+  {
+    "title": "e-means: k-means in a tenth of the epochs",
+    "description": "A deep dive into Meta FAIR's e-means paper: how mini-batch updates with exponential moving averages match 25 epochs of Lloyd's k-means in about two, what the evidence shows, and where the caveats are.",
+    "file": "2026-11-11-e-means-k-means-in-a-tenth-of-the-epochs.mp3",
+    "bytes": 7147513,
+    "seconds": 595,
+    "published": "2026-11-11T07:22:39+00:00",
+    "guid": "2026-11-11-e-means-k-means-in-a-tenth-of-the-epochs.mp3-7147513"
   }
 ]
