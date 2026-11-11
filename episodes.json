@@ -25,5 +25,14 @@
     "seconds": 519,
     "published": "2026-11-11T01:14:15+00:00",
     "guid": "2026-11-11-homeopathic-learning-when-clean-data-makes-the-poison-strong.mp3-6239123"
+  },
+  {
+    "title": "Training without backprop: from 1.76 hours to 1.6 seconds",
+    "description": "How the Noise speedrun made forward-only training of a small GPT about 4,000 times faster in ten days, from random activation nudges to Hadamard probes and identity-path credit, and what it does and doesn't say about scaling.",
+    "file": "2026-11-11-training-without-backprop-from-1-76-hours-to-1-6-seconds.mp3",
+    "bytes": 6359467,
+    "seconds": 529,
+    "published": "2026-11-11T07:20:08+00:00",
+    "guid": "2026-11-11-training-without-backprop-from-1-76-hours-to-1-6-seconds.mp3-6359467"
   }
 ]

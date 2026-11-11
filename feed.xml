@@ -11,7 +11,16 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:block>yes</itunes:block>
     <itunes:category text="Education"/>
-    <lastBuildDate>Wed, 11 Nov 2026 01:14:15 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 11 Nov 2026 07:20:08 +0000</lastBuildDate>
+    <item>
+      <title>Training without backprop: from 1.76 hours to 1.6 seconds</title>
+      <description>How the Noise speedrun made forward-only training of a small GPT about 4,000 times faster in ten days, from random activation nudges to Hadamard probes and identity-path credit, and what it does and doesn&#x27;t say about scaling.</description>
+      <enclosure url="https://tengs-fan.github.io/Podcast-Feed/episodes/2026-11-11-training-without-backprop-from-1-76-hours-to-1-6-seconds.mp3" length="6359467" type="audio/mpeg"/>
+      <guid isPermaLink="false">2026-11-11-training-without-backprop-from-1-76-hours-to-1-6-seconds.mp3-6359467</guid>
+      <pubDate>Wed, 11 Nov 2026 07:20:08 +0000</pubDate>
+      <itunes:duration>0:08:49</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>Homeopathic learning: when clean data makes the poison stronger</title>
       <description>A November 2026 paper (Clarke, Dubiński, Chua, Schrodi, Evans, Cloud) finds that poisoned fine-tuning data which does almost nothing alone can create a hidden backdoor once clean, contrasting data is mixed in. Covers the German-numbers, reward-hacking, bird-name and MNIST experiments, the blame-assignment explanation, and the limits.</description>
