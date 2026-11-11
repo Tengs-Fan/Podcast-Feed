@@ -16,5 +16,14 @@
     "seconds": 630,
     "published": "2026-11-10T23:31:24+00:00",
     "guid": "2026-11-10-how-llms-watch-video-beyond-sampling-frames.mp3-10095090"
+  },
+  {
+    "title": "Homeopathic learning: when clean data makes the poison stronger",
+    "description": "A November 2026 paper (Clarke, Dubiński, Chua, Schrodi, Evans, Cloud) finds that poisoned fine-tuning data which does almost nothing alone can create a hidden backdoor once clean, contrasting data is mixed in. Covers the German-numbers, reward-hacking, bird-name and MNIST experiments, the blame-assignment explanation, and the limits.",
+    "file": "2026-11-11-homeopathic-learning-when-clean-data-makes-the-poison-strong.mp3",
+    "bytes": 6239123,
+    "seconds": 519,
+    "published": "2026-11-11T01:14:15+00:00",
+    "guid": "2026-11-11-homeopathic-learning-when-clean-data-makes-the-poison-strong.mp3-6239123"
   }
 ]

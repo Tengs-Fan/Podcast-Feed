@@ -11,7 +11,16 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:block>yes</itunes:block>
     <itunes:category text="Education"/>
-    <lastBuildDate>Tue, 10 Nov 2026 23:31:24 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 11 Nov 2026 01:14:15 +0000</lastBuildDate>
+    <item>
+      <title>Homeopathic learning: when clean data makes the poison stronger</title>
+      <description>A November 2026 paper (Clarke, Dubiński, Chua, Schrodi, Evans, Cloud) finds that poisoned fine-tuning data which does almost nothing alone can create a hidden backdoor once clean, contrasting data is mixed in. Covers the German-numbers, reward-hacking, bird-name and MNIST experiments, the blame-assignment explanation, and the limits.</description>
+      <enclosure url="https://tengs-fan.github.io/Podcast-Feed/episodes/2026-11-11-homeopathic-learning-when-clean-data-makes-the-poison-strong.mp3" length="6239123" type="audio/mpeg"/>
+      <guid isPermaLink="false">2026-11-11-homeopathic-learning-when-clean-data-makes-the-poison-strong.mp3-6239123</guid>
+      <pubDate>Wed, 11 Nov 2026 01:14:15 +0000</pubDate>
+      <itunes:duration>0:08:39</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>How LLMs watch video: beyond sampling frames</title>
       <description>Why the default is one frame per second, and the ideas that go beyond frame sampling: tokens that span time, pruning what did not move, reading the video codec, timestamps, audio, streaming and agentic viewing.</description>
