@@ -11,14 +11,14 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:block>yes</itunes:block>
     <itunes:category text="Education"/>
-    <lastBuildDate>Thu, 12 Nov 2026 05:07:01 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 12 Nov 2026 05:11:51 +0000</lastBuildDate>
     <item>
       <title>Robot by postcard: how a harness took Qwen from 2 to 31</title>
       <description>A deep dive into uni-robot-agent, an open harness that lets a general AI model steer a robot through tool calls. Why the same open model went from 1.90 to 31.39 on RoboDojo, what the comparison with GPT-6 Astra really shows, and where the caveats are.</description>
-      <enclosure url="https://tengs-fan.github.io/Podcast-Feed/episodes/2026-11-12-robot-by-postcard-how-a-harness-took-qwen-from-2-to-31.mp3" length="7200503" type="audio/mpeg"/>
-      <guid isPermaLink="false">2026-11-12-robot-by-postcard-how-a-harness-took-qwen-from-2-to-31.mp3-7200503</guid>
-      <pubDate>Thu, 12 Nov 2026 05:07:01 +0000</pubDate>
-      <itunes:duration>0:10:00</itunes:duration>
+      <enclosure url="https://tengs-fan.github.io/Podcast-Feed/episodes/2026-11-12-robot-by-postcard-how-a-harness-took-qwen-from-2-to-31.mp3" length="7284827" type="audio/mpeg"/>
+      <guid isPermaLink="false">2026-11-12-robot-by-postcard-how-a-harness-took-qwen-from-2-to-31.mp3-7284827</guid>
+      <pubDate>Thu, 12 Nov 2026 05:11:51 +0000</pubDate>
+      <itunes:duration>0:10:07</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
     <item>
