@@ -11,7 +11,16 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:block>yes</itunes:block>
     <itunes:category text="Education"/>
-    <lastBuildDate>Thu, 12 Nov 2026 05:11:51 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 13 Nov 2026 22:18:58 +0000</lastBuildDate>
+    <item>
+      <title>The avalanche that hit math, and why AI research is next</title>
+      <description>Two hosts walk through an essay arguing that AI research is about to be automated, the way math problems suddenly fell to AI, and why that could mean superintelligence by 2030.</description>
+      <enclosure url="https://tengs-fan.github.io/Podcast-Feed/episodes/2026-11-13-the-avalanche-that-hit-math-and-why-ai-research-is-next.mp3" length="4745099" type="audio/mpeg"/>
+      <guid isPermaLink="false">2026-11-13-the-avalanche-that-hit-math-and-why-ai-research-is-next.mp3-4745099</guid>
+      <pubDate>Fri, 13 Nov 2026 22:18:58 +0000</pubDate>
+      <itunes:duration>0:06:35</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>Robot by postcard: how a harness took Qwen from 2 to 31</title>
       <description>A deep dive into uni-robot-agent, an open harness that lets a general AI model steer a robot through tool calls. Why the same open model went from 1.90 to 31.39 on RoboDojo, what the comparison with GPT-6 Astra really shows, and where the caveats are.</description>
