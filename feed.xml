@@ -11,7 +11,16 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:block>yes</itunes:block>
     <itunes:category text="Education"/>
-    <lastBuildDate>Fri, 13 Nov 2026 22:18:58 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 14 Nov 2026 00:25:27 +0000</lastBuildDate>
+    <item>
+      <title>The experts that aren&#x27;t: what mixture-of-experts models really learn</title>
+      <description>MoE experts are not doctors in a hospital. A first-principles look at what routers and experts actually specialize in, from Mixtral&#x27;s routing analysis to this year&#x27;s interpretability work, and where the evidence is still contested.</description>
+      <enclosure url="https://tengs-fan.github.io/Podcast-Feed/episodes/2026-11-14-the-experts-that-aren-t-what-mixture-of-experts-models-reall.mp3" length="7003031" type="audio/mpeg"/>
+      <guid isPermaLink="false">2026-11-14-the-experts-that-aren-t-what-mixture-of-experts-models-reall.mp3-7003031</guid>
+      <pubDate>Sat, 14 Nov 2026 00:25:27 +0000</pubDate>
+      <itunes:duration>0:09:43</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>The avalanche that hit math, and why AI research is next</title>
       <description>Two hosts walk through an essay arguing that AI research is about to be automated, the way math problems suddenly fell to AI, and why that could mean superintelligence by 2030.</description>

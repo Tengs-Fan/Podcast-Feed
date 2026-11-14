@@ -70,5 +70,14 @@
     "seconds": 395,
     "published": "2026-11-13T22:18:58+00:00",
     "guid": "2026-11-13-the-avalanche-that-hit-math-and-why-ai-research-is-next.mp3-4745099"
+  },
+  {
+    "title": "The experts that aren't: what mixture-of-experts models really learn",
+    "description": "MoE experts are not doctors in a hospital. A first-principles look at what routers and experts actually specialize in, from Mixtral's routing analysis to this year's interpretability work, and where the evidence is still contested.",
+    "file": "2026-11-14-the-experts-that-aren-t-what-mixture-of-experts-models-reall.mp3",
+    "bytes": 7003031,
+    "seconds": 583,
+    "published": "2026-11-14T00:25:27+00:00",
+    "guid": "2026-11-14-the-experts-that-aren-t-what-mixture-of-experts-models-reall.mp3-7003031"
   }
 ]
