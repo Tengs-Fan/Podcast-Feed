@@ -11,7 +11,7 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:block>yes</itunes:block>
     <itunes:category text="Education"/>
-    <lastBuildDate>Sat, 14 Nov 2026 00:25:27 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 14 Nov 2026 17:40:56 +0000</lastBuildDate>
     <item>
       <title>The experts that aren&#x27;t: what mixture-of-experts models really learn</title>
       <description>MoE experts are not doctors in a hospital. A first-principles look at what routers and experts actually specialize in, from Mixtral&#x27;s routing analysis to this year&#x27;s interpretability work, and where the evidence is still contested.</description>
@@ -78,10 +78,10 @@
     <item>
       <title>How LLMs watch video: beyond sampling frames</title>
       <description>Why the default is one frame per second, and the ideas that go beyond frame sampling: tokens that span time, pruning what did not move, reading the video codec, timestamps, audio, streaming and agentic viewing.</description>
-      <enclosure url="https://tengs-fan.github.io/Podcast-Feed/episodes/2026-11-10-how-llms-watch-video-beyond-sampling-frames.mp3" length="10095090" type="audio/mpeg"/>
-      <guid isPermaLink="false">2026-11-10-how-llms-watch-video-beyond-sampling-frames.mp3-10095090</guid>
+      <enclosure url="https://tengs-fan.github.io/Podcast-Feed/episodes/2026-11-10-how-llms-watch-video-beyond-sampling-frames.mp3" length="7162271" type="audio/mpeg"/>
+      <guid isPermaLink="false">2026-11-10-how-llms-watch-video-beyond-sampling-frames.mp3-7162271</guid>
       <pubDate>Tue, 10 Nov 2026 23:31:24 +0000</pubDate>
-      <itunes:duration>0:10:30</itunes:duration>
+      <itunes:duration>0:09:57</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
     <item>
