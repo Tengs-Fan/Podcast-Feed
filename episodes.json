@@ -106,5 +106,14 @@
     "seconds": 472,
     "published": "2026-11-15T19:58:12+00:00",
     "guid": "2026-11-15-how-nitrogen-turns-static-into-a-button-press.mp3-5665434"
+  },
+  {
+    "title": "The Emperor's New Mind: can a machine see what's true?",
+    "description": "A deep dive into Roger Penrose's 1989 book: his Gödel argument that understanding isn't computation, the objections to it, his bet on gravity and quantum collapse, and what the evidence says now. Made with AI: script by Claude, voices by Gemini.",
+    "file": "2026-11-15-the-emperor-s-new-mind-can-a-machine-see-what-s-true.mp3",
+    "bytes": 11611644,
+    "seconds": 967,
+    "published": "2026-11-15T20:07:17+00:00",
+    "guid": "2026-11-15-the-emperor-s-new-mind-can-a-machine-see-what-s-true.mp3-11611644"
   }
 ]

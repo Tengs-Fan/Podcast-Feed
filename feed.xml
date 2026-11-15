@@ -11,7 +11,16 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:block>yes</itunes:block>
     <itunes:category text="Education"/>
-    <lastBuildDate>Sun, 15 Nov 2026 19:58:12 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 15 Nov 2026 20:07:17 +0000</lastBuildDate>
+    <item>
+      <title>The Emperor&#x27;s New Mind: can a machine see what&#x27;s true?</title>
+      <description>A deep dive into Roger Penrose&#x27;s 1989 book: his Gödel argument that understanding isn&#x27;t computation, the objections to it, his bet on gravity and quantum collapse, and what the evidence says now. Made with AI: script by Claude, voices by Gemini.</description>
+      <enclosure url="https://tengs-fan.github.io/Podcast-Feed/episodes/2026-11-15-the-emperor-s-new-mind-can-a-machine-see-what-s-true.mp3" length="11611644" type="audio/mpeg"/>
+      <guid isPermaLink="false">2026-11-15-the-emperor-s-new-mind-can-a-machine-see-what-s-true.mp3-11611644</guid>
+      <pubDate>Sun, 15 Nov 2026 20:07:17 +0000</pubDate>
+      <itunes:duration>0:16:07</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>How NitroGen turns static into a button press</title>
       <description>Why a game-playing model starts every decision from random noise: flow matching, the velocity field, and what each denoising step computes, read from the NitroGen source code. Script by Claude, voices by Gemini.</description>
