@@ -11,7 +11,16 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:block>yes</itunes:block>
     <itunes:category text="Education"/>
-    <lastBuildDate>Sun, 15 Nov 2026 18:14:32 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 15 Nov 2026 19:58:12 +0000</lastBuildDate>
+    <item>
+      <title>How NitroGen turns static into a button press</title>
+      <description>Why a game-playing model starts every decision from random noise: flow matching, the velocity field, and what each denoising step computes, read from the NitroGen source code. Script by Claude, voices by Gemini.</description>
+      <enclosure url="https://tengs-fan.github.io/Podcast-Feed/episodes/2026-11-15-how-nitrogen-turns-static-into-a-button-press.mp3" length="5665434" type="audio/mpeg"/>
+      <guid isPermaLink="false">2026-11-15-how-nitrogen-turns-static-into-a-button-press.mp3-5665434</guid>
+      <pubDate>Sun, 15 Nov 2026 19:58:12 +0000</pubDate>
+      <itunes:duration>0:07:52</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>If pixels are too noisy to predict, why does diffusion work?</title>
       <description>JEPA says don&#x27;t predict pixels; diffusion models do it all day. Why both are right: &#x27;noisy&#x27; means uncertain, and language models, diffusion and JEPA each escape the blur differently (list, sample, delete). Plus latent diffusion, REPA and pixel-space diffusion.</description>

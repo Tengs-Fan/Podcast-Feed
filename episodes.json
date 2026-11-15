@@ -97,5 +97,14 @@
     "seconds": 434,
     "published": "2026-11-15T18:14:32+00:00",
     "guid": "2026-11-15-if-pixels-are-too-noisy-to-predict-why-does-diffusion-work.mp3-5212172"
+  },
+  {
+    "title": "How NitroGen turns static into a button press",
+    "description": "Why a game-playing model starts every decision from random noise: flow matching, the velocity field, and what each denoising step computes, read from the NitroGen source code. Script by Claude, voices by Gemini.",
+    "file": "2026-11-15-how-nitrogen-turns-static-into-a-button-press.mp3",
+    "bytes": 5665434,
+    "seconds": 472,
+    "published": "2026-11-15T19:58:12+00:00",
+    "guid": "2026-11-15-how-nitrogen-turns-static-into-a-button-press.mp3-5665434"
   }
 ]
