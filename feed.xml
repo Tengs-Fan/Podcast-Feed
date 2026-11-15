@@ -11,7 +11,16 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:block>yes</itunes:block>
     <itunes:category text="Education"/>
-    <lastBuildDate>Sun, 15 Nov 2026 07:08:28 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 15 Nov 2026 18:14:32 +0000</lastBuildDate>
+    <item>
+      <title>If pixels are too noisy to predict, why does diffusion work?</title>
+      <description>JEPA says don&#x27;t predict pixels; diffusion models do it all day. Why both are right: &#x27;noisy&#x27; means uncertain, and language models, diffusion and JEPA each escape the blur differently (list, sample, delete). Plus latent diffusion, REPA and pixel-space diffusion.</description>
+      <enclosure url="https://tengs-fan.github.io/Podcast-Feed/episodes/2026-11-15-if-pixels-are-too-noisy-to-predict-why-does-diffusion-work.mp3" length="5212172" type="audio/mpeg"/>
+      <guid isPermaLink="false">2026-11-15-if-pixels-are-too-noisy-to-predict-why-does-diffusion-work.mp3-5212172</guid>
+      <pubDate>Sun, 15 Nov 2026 18:14:32 +0000</pubDate>
+      <itunes:duration>0:07:14</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>The world model was fine, the planner was lost: 600 experiments on a JEPA world model</title>
       <description>A deep dive into a 600-experiment study of the LeWM JEPA world model on Push-T: why perfect physics didn&#x27;t help, why planning breaks past about 25 steps, and four training-free fixes (subgoals, a memory graph, symmetry, and ignoring the pusher). Based on public summaries of the write-up and the LeWM paper.</description>

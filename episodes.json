@@ -88,5 +88,14 @@
     "seconds": 554,
     "published": "2026-11-15T07:08:28+00:00",
     "guid": "2026-11-15-the-world-model-was-fine-the-planner-was-lost-600-experiment.mp3-6659447"
+  },
+  {
+    "title": "If pixels are too noisy to predict, why does diffusion work?",
+    "description": "JEPA says don't predict pixels; diffusion models do it all day. Why both are right: 'noisy' means uncertain, and language models, diffusion and JEPA each escape the blur differently (list, sample, delete). Plus latent diffusion, REPA and pixel-space diffusion.",
+    "file": "2026-11-15-if-pixels-are-too-noisy-to-predict-why-does-diffusion-work.mp3",
+    "bytes": 5212172,
+    "seconds": 434,
+    "published": "2026-11-15T18:14:32+00:00",
+    "guid": "2026-11-15-if-pixels-are-too-noisy-to-predict-why-does-diffusion-work.mp3-5212172"
   }
 ]
