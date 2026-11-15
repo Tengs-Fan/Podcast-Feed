@@ -11,7 +11,16 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:block>yes</itunes:block>
     <itunes:category text="Education"/>
-    <lastBuildDate>Sun, 15 Nov 2026 20:07:17 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 15 Nov 2026 20:18:15 +0000</lastBuildDate>
+    <item>
+      <title>Post-training: how a text predictor becomes a model you can use</title>
+      <description>The three kinds of lessons that turn a pretrained language model into an assistant: worked examples (SFT), comparisons (DPO) and practice with an answer key (reinforcement learning with verifiable rewards). Plus what reinforcement learning really changes, reward hacking, on-policy distillation, and new 2026 research.</description>
+      <enclosure url="https://tengs-fan.github.io/Podcast-Feed/episodes/2026-11-15-post-training-how-a-text-predictor-becomes-a-model-you-can-u.mp3" length="6730621" type="audio/mpeg"/>
+      <guid isPermaLink="false">2026-11-15-post-training-how-a-text-predictor-becomes-a-model-you-can-u.mp3-6730621</guid>
+      <pubDate>Sun, 15 Nov 2026 20:18:15 +0000</pubDate>
+      <itunes:duration>0:09:20</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>The Emperor&#x27;s New Mind: can a machine see what&#x27;s true?</title>
       <description>A deep dive into Roger Penrose&#x27;s 1989 book: his Gödel argument that understanding isn&#x27;t computation, the objections to it, his bet on gravity and quantum collapse, and what the evidence says now. Made with AI: script by Claude, voices by Gemini.</description>

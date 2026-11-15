@@ -115,5 +115,14 @@
     "seconds": 967,
     "published": "2026-11-15T20:07:17+00:00",
     "guid": "2026-11-15-the-emperor-s-new-mind-can-a-machine-see-what-s-true.mp3-11611644"
+  },
+  {
+    "title": "Post-training: how a text predictor becomes a model you can use",
+    "description": "The three kinds of lessons that turn a pretrained language model into an assistant: worked examples (SFT), comparisons (DPO) and practice with an answer key (reinforcement learning with verifiable rewards). Plus what reinforcement learning really changes, reward hacking, on-policy distillation, and new 2026 research.",
+    "file": "2026-11-15-post-training-how-a-text-predictor-becomes-a-model-you-can-u.mp3",
+    "bytes": 6730621,
+    "seconds": 560,
+    "published": "2026-11-15T20:18:15+00:00",
+    "guid": "2026-11-15-post-training-how-a-text-predictor-becomes-a-model-you-can-u.mp3-6730621"
   }
 ]
