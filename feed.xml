@@ -11,7 +11,16 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:block>yes</itunes:block>
     <itunes:category text="Education"/>
-    <lastBuildDate>Sat, 14 Nov 2026 17:40:56 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 15 Nov 2026 07:08:28 +0000</lastBuildDate>
+    <item>
+      <title>The world model was fine, the planner was lost: 600 experiments on a JEPA world model</title>
+      <description>A deep dive into a 600-experiment study of the LeWM JEPA world model on Push-T: why perfect physics didn&#x27;t help, why planning breaks past about 25 steps, and four training-free fixes (subgoals, a memory graph, symmetry, and ignoring the pusher). Based on public summaries of the write-up and the LeWM paper.</description>
+      <enclosure url="https://tengs-fan.github.io/Podcast-Feed/episodes/2026-11-15-the-world-model-was-fine-the-planner-was-lost-600-experiment.mp3" length="6659447" type="audio/mpeg"/>
+      <guid isPermaLink="false">2026-11-15-the-world-model-was-fine-the-planner-was-lost-600-experiment.mp3-6659447</guid>
+      <pubDate>Sun, 15 Nov 2026 07:08:28 +0000</pubDate>
+      <itunes:duration>0:09:14</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>The experts that aren&#x27;t: what mixture-of-experts models really learn</title>
       <description>MoE experts are not doctors in a hospital. A first-principles look at what routers and experts actually specialize in, from Mixtral&#x27;s routing analysis to this year&#x27;s interpretability work, and where the evidence is still contested.</description>
