@@ -11,14 +11,14 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:block>yes</itunes:block>
     <itunes:category text="Education"/>
-    <lastBuildDate>Mon, 16 Nov 2026 00:55:14 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 16 Nov 2026 01:13:57 +0000</lastBuildDate>
     <item>
-      <title>Post-training, one level down: how each method changes the weights</title>
-      <description>What gradient actually lands on the model in fine-tuning, reinforcement learning (policy gradient, advantage, GRPO, PPO clipping), preference optimization (DPO) and distillation. One shape covers all four: a weight times target minus prediction, then ordinary backpropagation. Replaces the earlier, shallower post-training episode.</description>
-      <enclosure url="https://tengs-fan.github.io/Podcast-Feed/episodes/2026-11-16-post-training-one-level-down-how-each-method-changes-the-wei.mp3" length="6313396" type="audio/mpeg"/>
-      <guid isPermaLink="false">2026-11-16-post-training-one-level-down-how-each-method-changes-the-wei.mp3-6313396</guid>
-      <pubDate>Mon, 16 Nov 2026 00:55:14 +0000</pubDate>
-      <itunes:duration>0:08:46</itunes:duration>
+      <title>Post-training for long answers: how one bit trains a two-thousand-token proof</title>
+      <description>How the weights change when the answer is thousands of tokens long: teacher forcing, replaying the model&#x27;s own transcript with one advantage on every token, why shared tokens cancel across a group, and why long answers stall. Then the three fixes used for proofs: formal checking in Lean, cutting problems into lemmas, and learned forecasts, with AlphaProof, DeepSeek-Prover-V2 and Seed-Prover as examples. Replaces the previous post-training episode.</description>
+      <enclosure url="https://tengs-fan.github.io/Podcast-Feed/episodes/2026-11-16-post-training-for-long-answers-how-one-bit-trains-a-two-thou.mp3" length="7853796" type="audio/mpeg"/>
+      <guid isPermaLink="false">2026-11-16-post-training-for-long-answers-how-one-bit-trains-a-two-thou.mp3-7853796</guid>
+      <pubDate>Mon, 16 Nov 2026 01:13:57 +0000</pubDate>
+      <itunes:duration>0:10:54</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
     <item>
