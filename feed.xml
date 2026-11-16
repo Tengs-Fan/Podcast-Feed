@@ -11,14 +11,14 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:block>yes</itunes:block>
     <itunes:category text="Education"/>
-    <lastBuildDate>Sun, 15 Nov 2026 20:18:15 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 16 Nov 2026 00:55:14 +0000</lastBuildDate>
     <item>
-      <title>Post-training: how a text predictor becomes a model you can use</title>
-      <description>The three kinds of lessons that turn a pretrained language model into an assistant: worked examples (SFT), comparisons (DPO) and practice with an answer key (reinforcement learning with verifiable rewards). Plus what reinforcement learning really changes, reward hacking, on-policy distillation, and new 2026 research.</description>
-      <enclosure url="https://tengs-fan.github.io/Podcast-Feed/episodes/2026-11-15-post-training-how-a-text-predictor-becomes-a-model-you-can-u.mp3" length="6730621" type="audio/mpeg"/>
-      <guid isPermaLink="false">2026-11-15-post-training-how-a-text-predictor-becomes-a-model-you-can-u.mp3-6730621</guid>
-      <pubDate>Sun, 15 Nov 2026 20:18:15 +0000</pubDate>
-      <itunes:duration>0:09:20</itunes:duration>
+      <title>Post-training, one level down: how each method changes the weights</title>
+      <description>What gradient actually lands on the model in fine-tuning, reinforcement learning (policy gradient, advantage, GRPO, PPO clipping), preference optimization (DPO) and distillation. One shape covers all four: a weight times target minus prediction, then ordinary backpropagation. Replaces the earlier, shallower post-training episode.</description>
+      <enclosure url="https://tengs-fan.github.io/Podcast-Feed/episodes/2026-11-16-post-training-one-level-down-how-each-method-changes-the-wei.mp3" length="6313396" type="audio/mpeg"/>
+      <guid isPermaLink="false">2026-11-16-post-training-one-level-down-how-each-method-changes-the-wei.mp3-6313396</guid>
+      <pubDate>Mon, 16 Nov 2026 00:55:14 +0000</pubDate>
+      <itunes:duration>0:08:46</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
     <item>

@@ -117,12 +117,12 @@
     "guid": "2026-11-15-the-emperor-s-new-mind-can-a-machine-see-what-s-true.mp3-11611644"
   },
   {
-    "title": "Post-training: how a text predictor becomes a model you can use",
-    "description": "The three kinds of lessons that turn a pretrained language model into an assistant: worked examples (SFT), comparisons (DPO) and practice with an answer key (reinforcement learning with verifiable rewards). Plus what reinforcement learning really changes, reward hacking, on-policy distillation, and new 2026 research.",
-    "file": "2026-11-15-post-training-how-a-text-predictor-becomes-a-model-you-can-u.mp3",
-    "bytes": 6730621,
-    "seconds": 560,
-    "published": "2026-11-15T20:18:15+00:00",
-    "guid": "2026-11-15-post-training-how-a-text-predictor-becomes-a-model-you-can-u.mp3-6730621"
+    "title": "Post-training, one level down: how each method changes the weights",
+    "description": "What gradient actually lands on the model in fine-tuning, reinforcement learning (policy gradient, advantage, GRPO, PPO clipping), preference optimization (DPO) and distillation. One shape covers all four: a weight times target minus prediction, then ordinary backpropagation. Replaces the earlier, shallower post-training episode.",
+    "file": "2026-11-16-post-training-one-level-down-how-each-method-changes-the-wei.mp3",
+    "bytes": 6313396,
+    "seconds": 526,
+    "published": "2026-11-16T00:55:14+00:00",
+    "guid": "2026-11-16-post-training-one-level-down-how-each-method-changes-the-wei.mp3-6313396"
   }
 ]
