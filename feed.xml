@@ -11,7 +11,16 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:block>yes</itunes:block>
     <itunes:category text="Education"/>
-    <lastBuildDate>Tue, 17 Nov 2026 07:57:06 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 17 Nov 2026 08:23:02 +0000</lastBuildDate>
+    <item>
+      <title>Training in four bits: how a model learns on a sixteen-value ruler</title>
+      <description>A deep dive into Thinking Machines&#x27; end-to-end 4-bit training of Inkling 2 Small: the FP4 number line, NVFP4 block scales, Four Over Six, why forward rounding noise is tolerable but backward bias is not, the transpose problem and stochastic re-rounding to 8 bits, Hadamard-rotated GPU traffic, and what it bought (about 2% efficiency for 8% faster pretraining and 20% faster RL). Compared with NVIDIA&#x27;s all-NVFP4 recipe.</description>
+      <enclosure url="https://tengs-fan.github.io/Podcast-Feed/episodes/2026-11-17-training-in-four-bits-how-a-model-learns-on-a-sixteen-value-.mp3" length="9931773" type="audio/mpeg"/>
+      <guid isPermaLink="false">2026-11-17-training-in-four-bits-how-a-model-learns-on-a-sixteen-value-.mp3-9931773</guid>
+      <pubDate>Tue, 17 Nov 2026 08:23:02 +0000</pubDate>
+      <itunes:duration>0:13:47</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>Cola2: plan in vectors, write in words</title>
       <description>A deep dive on Cola2 (arXiv 2610.31305), a hierarchical language model that compresses text into continuous vectors, plans the next block with diffusion, then decodes words and re-encodes what it wrote. Covers the thermostat that sets chunk size, why smaller latents win, and why the headline of 43 times less data than Llama 3 needs an asterisk.</description>
