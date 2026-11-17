@@ -124,5 +124,14 @@
     "seconds": 654,
     "published": "2026-11-16T01:13:57+00:00",
     "guid": "2026-11-16-post-training-for-long-answers-how-one-bit-trains-a-two-thou.mp3-7853796"
+  },
+  {
+    "title": "Cola2: plan in vectors, write in words",
+    "description": "A deep dive on Cola2 (arXiv 2610.31305), a hierarchical language model that compresses text into continuous vectors, plans the next block with diffusion, then decodes words and re-encodes what it wrote. Covers the thermostat that sets chunk size, why smaller latents win, and why the headline of 43 times less data than Llama 3 needs an asterisk.",
+    "file": "2026-11-17-cola2-plan-in-vectors-write-in-words.mp3",
+    "bytes": 5216539,
+    "seconds": 434,
+    "published": "2026-11-17T07:57:06+00:00",
+    "guid": "2026-11-17-cola2-plan-in-vectors-write-in-words.mp3-5216539"
   }
 ]

@@ -11,7 +11,16 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:block>yes</itunes:block>
     <itunes:category text="Education"/>
-    <lastBuildDate>Mon, 16 Nov 2026 01:13:57 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 17 Nov 2026 07:57:06 +0000</lastBuildDate>
+    <item>
+      <title>Cola2: plan in vectors, write in words</title>
+      <description>A deep dive on Cola2 (arXiv 2610.31305), a hierarchical language model that compresses text into continuous vectors, plans the next block with diffusion, then decodes words and re-encodes what it wrote. Covers the thermostat that sets chunk size, why smaller latents win, and why the headline of 43 times less data than Llama 3 needs an asterisk.</description>
+      <enclosure url="https://tengs-fan.github.io/Podcast-Feed/episodes/2026-11-17-cola2-plan-in-vectors-write-in-words.mp3" length="5216539" type="audio/mpeg"/>
+      <guid isPermaLink="false">2026-11-17-cola2-plan-in-vectors-write-in-words.mp3-5216539</guid>
+      <pubDate>Tue, 17 Nov 2026 07:57:06 +0000</pubDate>
+      <itunes:duration>0:07:14</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>Post-training for long answers: how one bit trains a two-thousand-token proof</title>
       <description>How the weights change when the answer is thousands of tokens long: teacher forcing, replaying the model&#x27;s own transcript with one advantage on every token, why shared tokens cancel across a group, and why long answers stall. Then the three fixes used for proofs: formal checking in Lean, cutting problems into lemmas, and learned forecasts, with AlphaProof, DeepSeek-Prover-V2 and Seed-Prover as examples. Replaces the previous post-training episode.</description>
