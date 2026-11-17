@@ -142,5 +142,14 @@
     "seconds": 827,
     "published": "2026-11-17T08:23:02+00:00",
     "guid": "2026-11-17-training-in-four-bits-how-a-model-learns-on-a-sixteen-value-.mp3-9931773"
+  },
+  {
+    "title": "How to scale text-to-image models: the language-model playbook, applied to pictures",
+    "description": "A deep dive into Wenhao Chai's handbook on scaling pixel-space text-to-image models on GPIC (100M permissively licensed pairs): why held-out loss beats FID as a ruler, iso-FLOP curves and about 50 image tokens per parameter, learning-rate cooldown instead of EMA, what FID misses about memorization, and why to drop classifier-free guidance. With background on JiT's clean-image prediction.",
+    "file": "2026-11-17-how-to-scale-text-to-image-models-the-language-model-playboo.mp3",
+    "bytes": 8878533,
+    "seconds": 739,
+    "published": "2026-11-17T08:35:20+00:00",
+    "guid": "2026-11-17-how-to-scale-text-to-image-models-the-language-model-playboo.mp3-8878533"
   }
 ]
