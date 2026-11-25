@@ -11,7 +11,16 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:block>yes</itunes:block>
     <itunes:category text="Education"/>
-    <lastBuildDate>Tue, 17 Nov 2026 08:35:21 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 25 Nov 2026 05:11:25 +0000</lastBuildDate>
+    <item>
+      <title>Back to the neurons: judging a neuron by what it adds</title>
+      <description>Two new Anthropic Fellows posts argue that single neurons are more interpretable than the field assumed, once you look at what each neuron adds rather than what makes it fire, and use them to detect harmful text, steer models and uncover hidden behaviors in finetunes. Made with AI: script by Claude, voices by Gemini.</description>
+      <enclosure url="https://tengs-fan.github.io/Podcast-Feed/episodes/2026-11-25-back-to-the-neurons-judging-a-neuron-by-what-it-adds.mp3" length="6660360" type="audio/mpeg"/>
+      <guid isPermaLink="false">2026-11-25-back-to-the-neurons-judging-a-neuron-by-what-it-adds.mp3-6660360</guid>
+      <pubDate>Wed, 25 Nov 2026 05:11:25 +0000</pubDate>
+      <itunes:duration>0:09:14</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>How to scale text-to-image models: the language-model playbook, applied to pictures</title>
       <description>A deep dive into Wenhao Chai&#x27;s handbook on scaling pixel-space text-to-image models on GPIC (100M permissively licensed pairs): why held-out loss beats FID as a ruler, iso-FLOP curves and about 50 image tokens per parameter, learning-rate cooldown instead of EMA, what FID misses about memorization, and why to drop classifier-free guidance. With background on JiT&#x27;s clean-image prediction.</description>

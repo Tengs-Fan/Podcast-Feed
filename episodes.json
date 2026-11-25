@@ -151,5 +151,14 @@
     "seconds": 739,
     "published": "2026-11-17T08:35:20+00:00",
     "guid": "2026-11-17-how-to-scale-text-to-image-models-the-language-model-playboo.mp3-8878533"
+  },
+  {
+    "title": "Back to the neurons: judging a neuron by what it adds",
+    "description": "Two new Anthropic Fellows posts argue that single neurons are more interpretable than the field assumed, once you look at what each neuron adds rather than what makes it fire, and use them to detect harmful text, steer models and uncover hidden behaviors in finetunes. Made with AI: script by Claude, voices by Gemini.",
+    "file": "2026-11-25-back-to-the-neurons-judging-a-neuron-by-what-it-adds.mp3",
+    "bytes": 6660360,
+    "seconds": 554,
+    "published": "2026-11-25T05:11:25+00:00",
+    "guid": "2026-11-25-back-to-the-neurons-judging-a-neuron-by-what-it-adds.mp3-6660360"
   }
 ]
