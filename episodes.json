@@ -160,5 +160,14 @@
     "seconds": 554,
     "published": "2026-11-25T05:11:25+00:00",
     "guid": "2026-11-25-back-to-the-neurons-judging-a-neuron-by-what-it-adds.mp3-6660360"
+  },
+  {
+    "title": "Model Carving: which layers would you delete?",
+    "description": "A deep dive on Model Carving (arXiv 2611.27962), where a Transformer deletes its own attention and MLP blocks during training. Covers the gate on every block, the pressure priced in training data, why the three headline numbers come from two different model families, and the appendix control showing the loss gain comes mostly from extra wiring.",
+    "file": "2026-11-26-model-carving-which-layers-would-you-delete.mp3",
+    "bytes": 5376415,
+    "seconds": 448,
+    "published": "2026-11-26T03:43:20+00:00",
+    "guid": "2026-11-26-model-carving-which-layers-would-you-delete.mp3-5376415"
   }
 ]

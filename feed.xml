@@ -11,7 +11,16 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:block>yes</itunes:block>
     <itunes:category text="Education"/>
-    <lastBuildDate>Wed, 25 Nov 2026 05:11:25 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 26 Nov 2026 03:43:20 +0000</lastBuildDate>
+    <item>
+      <title>Model Carving: which layers would you delete?</title>
+      <description>A deep dive on Model Carving (arXiv 2611.27962), where a Transformer deletes its own attention and MLP blocks during training. Covers the gate on every block, the pressure priced in training data, why the three headline numbers come from two different model families, and the appendix control showing the loss gain comes mostly from extra wiring.</description>
+      <enclosure url="https://tengs-fan.github.io/Podcast-Feed/episodes/2026-11-26-model-carving-which-layers-would-you-delete.mp3" length="5376415" type="audio/mpeg"/>
+      <guid isPermaLink="false">2026-11-26-model-carving-which-layers-would-you-delete.mp3-5376415</guid>
+      <pubDate>Thu, 26 Nov 2026 03:43:20 +0000</pubDate>
+      <itunes:duration>0:07:28</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>Back to the neurons: judging a neuron by what it adds</title>
       <description>Two new Anthropic Fellows posts argue that single neurons are more interpretable than the field assumed, once you look at what each neuron adds rather than what makes it fire, and use them to detect harmful text, steer models and uncover hidden behaviors in finetunes. Made with AI: script by Claude, voices by Gemini.</description>
