@@ -178,5 +178,14 @@
     "seconds": 414,
     "published": "2026-11-27T07:54:05+00:00",
     "guid": "2026-11-27-looped-transformers-think-more-write-less.mp3-4978934"
+  },
+  {
+    "title": "LoopTitan: take away the loop, what's left?",
+    "description": "A follow-up to the looped Transformers episode. A new paper (arXiv 2611.34821) takes the best looped mixture-of-experts recipe apart and finds the loop itself adds nothing at equal budgets: the gain is mostly a deeper, narrower shape, plus a learning-rate change in disguise. What that does and does not say about Inkling 2 Mini and GLM-5.4.",
+    "file": "2026-11-27-looptitan-take-away-the-loop-what-s-left.mp3",
+    "bytes": 4687721,
+    "seconds": 390,
+    "published": "2026-11-27T16:14:45+00:00",
+    "guid": "2026-11-27-looptitan-take-away-the-loop-what-s-left.mp3-4687721"
   }
 ]

@@ -11,7 +11,16 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:block>yes</itunes:block>
     <itunes:category text="Education"/>
-    <lastBuildDate>Fri, 27 Nov 2026 07:54:05 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 27 Nov 2026 16:14:45 +0000</lastBuildDate>
+    <item>
+      <title>LoopTitan: take away the loop, what&#x27;s left?</title>
+      <description>A follow-up to the looped Transformers episode. A new paper (arXiv 2611.34821) takes the best looped mixture-of-experts recipe apart and finds the loop itself adds nothing at equal budgets: the gain is mostly a deeper, narrower shape, plus a learning-rate change in disguise. What that does and does not say about Inkling 2 Mini and GLM-5.4.</description>
+      <enclosure url="https://tengs-fan.github.io/Podcast-Feed/episodes/2026-11-27-looptitan-take-away-the-loop-what-s-left.mp3" length="4687721" type="audio/mpeg"/>
+      <guid isPermaLink="false">2026-11-27-looptitan-take-away-the-loop-what-s-left.mp3-4687721</guid>
+      <pubDate>Fri, 27 Nov 2026 16:14:45 +0000</pubDate>
+      <itunes:duration>0:06:30</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>Looped Transformers: think more, write less</title>
       <description>Why Inkling 2 Mini and GLM-5.4 both run their middle layers more than once. Weights are memory and depth is time: what looping buys, what it costs, the small recipe that finally made it work, and why one of the two models comes with evidence and the other with a promise.</description>
