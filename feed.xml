@@ -11,7 +11,16 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:block>yes</itunes:block>
     <itunes:category text="Education"/>
-    <lastBuildDate>Thu, 26 Nov 2026 03:43:20 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 27 Nov 2026 07:54:05 +0000</lastBuildDate>
+    <item>
+      <title>Looped Transformers: think more, write less</title>
+      <description>Why Inkling 2 Mini and GLM-5.4 both run their middle layers more than once. Weights are memory and depth is time: what looping buys, what it costs, the small recipe that finally made it work, and why one of the two models comes with evidence and the other with a promise.</description>
+      <enclosure url="https://tengs-fan.github.io/Podcast-Feed/episodes/2026-11-27-looped-transformers-think-more-write-less.mp3" length="4978934" type="audio/mpeg"/>
+      <guid isPermaLink="false">2026-11-27-looped-transformers-think-more-write-less.mp3-4978934</guid>
+      <pubDate>Fri, 27 Nov 2026 07:54:05 +0000</pubDate>
+      <itunes:duration>0:06:54</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>Model Carving: which layers would you delete?</title>
       <description>A deep dive on Model Carving (arXiv 2611.27962), where a Transformer deletes its own attention and MLP blocks during training. Covers the gate on every block, the pressure priced in training data, why the three headline numbers come from two different model families, and the appendix control showing the loss gain comes mostly from extra wiring.</description>

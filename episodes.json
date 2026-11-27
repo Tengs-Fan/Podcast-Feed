@@ -169,5 +169,14 @@
     "seconds": 448,
     "published": "2026-11-26T03:43:20+00:00",
     "guid": "2026-11-26-model-carving-which-layers-would-you-delete.mp3-5376415"
+  },
+  {
+    "title": "Looped Transformers: think more, write less",
+    "description": "Why Inkling 2 Mini and GLM-5.4 both run their middle layers more than once. Weights are memory and depth is time: what looping buys, what it costs, the small recipe that finally made it work, and why one of the two models comes with evidence and the other with a promise.",
+    "file": "2026-11-27-looped-transformers-think-more-write-less.mp3",
+    "bytes": 4978934,
+    "seconds": 414,
+    "published": "2026-11-27T07:54:05+00:00",
+    "guid": "2026-11-27-looped-transformers-think-more-write-less.mp3-4978934"
   }
 ]
